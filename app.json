@@ -1,4 +1,7 @@
 {
   "name": "ncertbooks",
-  "displayName": "ncertbooks"
+  "displayName": "ncertbooks",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5874253013765779~7875383648"
+  }
 }
